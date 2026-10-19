@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- لازم برای ارتباط Flutter tool با برنامه در حالت debug/profile -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
